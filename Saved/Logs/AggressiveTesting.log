@@ -1810,3 +1810,1007 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.06-20.07.47:807][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.06-20.07.47:808][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4319.275879, Update Interval: 325.512878
 [2026.02.06-20.12.35:218][958]LogAssetRegistry: Warning: C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Blueprints\BP_MoeObject.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2026.02.06-20.14.05:893][230]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4697.696777
+[2026.02.06-20.14.06:894][234]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-20.14.06:894][234]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4698.363281, Update Interval: 337.925964
+[2026.02.06-20.20.41:288][417]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5093.105469
+[2026.02.06-20.20.42:288][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-20.20.42:288][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5093.772949, Update Interval: 322.907196
+[2026.02.06-20.21.26:193][728]LogObjectTools: Deleting 1 worlds: /Game/NoegraphTasks/df.df
+[2026.02.06-20.21.26:193][728]LogObjectTools: Currently 2 active worlds: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, /Engine/Transient.World_0
+[2026.02.06-20.21.26:214][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.02.06-20.21.27:674][728]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.06-20.21.27:768][728]LogWorld: UWorld::CleanupWorld for df, bSessionEnded=true, bCleanupResources=true
+[2026.02.06-20.21.27:768][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-20.21.27:869][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.06-20.21.27:886][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.21.27:903][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.06-20.21.28:037][728]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/NoegraphTasks/df.umap' did not match any file(s) known to git
+[2026.02.06-20.21.28:137][728]SourceControl: Error: fatal: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/NoegraphTasks/df.umap' did not match any files
+[2026.02.06-20.21.28:141][728]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2026.02.06-20.22.53:209][719]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.06-20.22.53:246][719]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.06-20.22.53:261][721]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.06-20.23.01:940][763]LogContentBrowser: Attempting asset rename: NewFolder -> SimpleRotationsTasks
+[2026.02.06-20.23.01:940][763]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/PropertyBindingUtils/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/PropertyBindingUtils/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/HDRIBackdrop/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/HDRIBackdrop/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GameplayStateTree/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GameplayStateTree/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:658][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryDataflow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryDataflow/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorageFeatures/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorageFeatures/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/TweeningUtils/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/TweeningUtils/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/NamingTokens/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/NamingTokens/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Marketplace/GraphNUnrealPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Marketplace/GraphNUnrealPlugin/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Cascade/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Cascade/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:659][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/Tornado'
+[2026.02.06-20.23.08:733][502]EditorErrors: Warning: No assets to check in!
+[2026.02.06-20.23.44:666][618]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.06-20.23.44:674][618]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.06-20.23.44:678][618]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.06-20.23.44:695][620]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.06-20.23.55:510][912]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_RotateAroundZAxes
+[2026.02.06-20.23.55:593][912]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.06-20.23.58:451][253]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.BP_RotateAroundZAxes
+[2026.02.06-20.23.58:451][253]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.02.06-20.24.01:862][553]LogSlate: Window 'BP_RotateAroundZAxes' being destroyed
+[2026.02.06-20.24.28:770][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.06-20.24.28:771][ 23]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.035
+[2026.02.06-20.24.28:772][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes] ([2] browsable assets)...
+[2026.02.06-20.24.28:772][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes]
+[2026.02.06-20.24.28:782][ 23]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes_Auto1
+[2026.02.06-20.24.28:782][ 23]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/BP_RotateAroundZAxes_Auto1AB15BF2D43502F20B9234F824F1B84F6.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Autosaves/Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes_Auto1.uasset'
+[2026.02.06-20.24.28:782][ 23]LogFileHelpers: Auto-saving content packages took 0.011
+[2026.02.06-20.25.30:959][307]LogFab: Display: Add listing to project - cd6de638-9bb7-4da4-9592-dc5e23d0ba0e
+[2026.02.06-20.25.30:959][307]LogFab: Display: Listing type - glb
+[2026.02.06-20.25.34:792][711]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.06-20.25.35:424][711]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.02.06-20.25.35:424][711]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Tornado/AppData/Local/Temp/FabLibrary/cd6de638-9bb7-4da4-9592-dc5e23d0ba0e/star_citizen_workflow_to_sketchfab_decals_9.glb]
+[2026.02.06-20.25.35:483][716]LogStreaming: Display: FlushAsyncLoading(634): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.06-20.25.35:505][718]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.06-20.25.35:505][718]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.06-20.25.35:558][718]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.25.35:581][721]LogStreaming: Display: FlushAsyncLoading(655): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.06-20.25.35:621][726]LogStreaming: Display: FlushAsyncLoading(657): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.06-20.25.35:629][727]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.25.35:638][728]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.06-20.25.35:654][730]LogStreaming: Display: FlushAsyncLoading(658): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.06-20.25.35:661][731]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.25.35:703][736]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.25.35:737][740]LogStreaming: Display: FlushAsyncLoading(660): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.06-20.25.35:777][745]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.25.35:986][752]LogTexture: Display: Building textures: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_3.star_citizen_workflow_to__etchfab_decals_9_texture_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.02.06-20.25.35:986][752]LogTexture: Display: Building textures: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_4.star_citizen_workflow_to__etchfab_decals_9_texture_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.02.06-20.25.36:006][752]LogTexture: Display: Building textures: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_0.star_citizen_workflow_to__etchfab_decals_9_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.06-20.25.36:006][752]LogTexture: Display: Building textures: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_1.star_citizen_workflow_to__etchfab_decals_9_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.06-20.25.36:009][752]LogTexture: Display: Building textures: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_5.star_citizen_workflow_to__etchfab_decals_9_texture_5 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.06-20.25.36:016][752]LogTexture: Display: Building textures: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_2.star_citizen_workflow_to__etchfab_decals_9_texture_2 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.06-20.25.36:021][752]LogTexture: Display: Building textures: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_6.star_citizen_workflow_to__etchfab_decals_9_texture_6 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.06-20.25.36:101][753]LogStaticMesh: Display: Building static mesh star_citizen_workflow_to_sketchfab_decals_9 (Required Memory Estimate: 129.314755 MB)...
+[2026.02.06-20.25.36:270][769]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.25.37:033][859]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.25.37:033][859]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.25.37:033][859]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.25.37:221][882]LogStaticMesh: Built static mesh [1.12s] /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9.star_citizen_workflow_to_sketchfab_decals_9
+[2026.02.06-20.25.37:301][891]LogStaticMesh: Warning: star_citizen_workflow_to_sketchfab_decals_9 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2026.02.06-20.25.37:301][891]LogStaticMesh: Warning: star_citizen_workflow_to_sketchfab_decals_9 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.02.06-20.25.37:301][891]LogStaticMesh: Warning: star_citizen_workflow_to_sketchfab_decals_9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.02.06-20.25.37:383][892]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Tornado/App...a4-9592-dc5e23d0ba0e/star_citizen_workflow_to_sketchfab_decals_9.glb]
+[2026.02.06-20.26.11:507][812]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.06-20.26.12:560][908]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.26.21:595][842]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.02.06-20.26.28:202][606]LogEditorTransaction: Undo Remove Components
+[2026.02.06-20.26.33:867][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.06-20.26.36:350][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9.star_citizen_workflow_to_sketchfab_decals_9
+[2026.02.06-20.26.36:351][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9.star_citizen_workflow_to_sketchfab_decals_9
+[2026.02.06-20.26.36:351][465]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9.star_citizen_workflow_to_sketchfab_decals_9 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_1
+[2026.02.06-20.26.36:830][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.06-20.26.36:832][511]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.02.06-20.26.36:837][511]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9.star_citizen_workflow_to_sketchfab_decals_9
+[2026.02.06-20.26.36:837][511]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9.star_citizen_workflow_to_sketchfab_decals_9
+[2026.02.06-20.26.36:842][511]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9.star_citizen_workflow_to_sketchfab_decals_9 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_CC28AAA3BF0AA0BC02_1937027183
+[2026.02.06-20.26.43:037][173]Cmd: DELETE
+[2026.02.06-20.26.43:037][173]Cmd: ACTOR DELETE
+[2026.02.06-20.26.43:052][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.43:068][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.06-20.26.43:069][173]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.02.06-20.26.43:535][216]Cmd: DELETE
+[2026.02.06-20.26.43:535][216]Cmd: ACTOR DELETE
+[2026.02.06-20.26.43:536][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.43:561][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.06-20.26.43:563][216]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.02.06-20.26.44:225][288]Cmd: DELETE
+[2026.02.06-20.26.44:225][288]Cmd: ACTOR DELETE
+[2026.02.06-20.26.44:226][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.44:241][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.06-20.26.44:243][288]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.26.44:785][336]Cmd: DELETE
+[2026.02.06-20.26.44:785][336]Cmd: ACTOR DELETE
+[2026.02.06-20.26.44:787][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.44:803][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.26.44:805][336]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.26.46:065][476]Cmd: DELETE
+[2026.02.06-20.26.46:065][476]Cmd: ACTOR DELETE
+[2026.02.06-20.26.46:067][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.46:083][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.02.06-20.26.46:085][476]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.26.47:060][582]Cmd: DELETE
+[2026.02.06-20.26.47:060][582]Cmd: ACTOR DELETE
+[2026.02.06-20.26.47:061][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.47:077][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.06-20.26.47:079][582]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.26.47:797][658]Cmd: DELETE
+[2026.02.06-20.26.47:797][658]Cmd: ACTOR DELETE
+[2026.02.06-20.26.47:798][658]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.47:813][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.02.06-20.26.47:815][658]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.26.48:503][729]Cmd: DELETE
+[2026.02.06-20.26.48:503][729]Cmd: ACTOR DELETE
+[2026.02.06-20.26.48:504][729]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.48:519][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.06-20.26.48:521][729]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.26.49:503][836]Cmd: DELETE
+[2026.02.06-20.26.49:503][836]Cmd: ACTOR DELETE
+[2026.02.06-20.26.49:504][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.49:540][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.06-20.26.49:542][836]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.02.06-20.26.50:736][966]Cmd: DELETE
+[2026.02.06-20.26.50:736][966]Cmd: ACTOR DELETE
+[2026.02.06-20.26.50:738][966]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.50:756][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.02.06-20.26.50:758][966]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.02.06-20.26.51:599][ 56]Cmd: DELETE
+[2026.02.06-20.26.51:599][ 56]Cmd: ACTOR DELETE
+[2026.02.06-20.26.51:600][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.51:615][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.06-20.26.51:618][ 56]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.26.53:054][216]Cmd: DELETE
+[2026.02.06-20.26.53:054][216]Cmd: ACTOR DELETE
+[2026.02.06-20.26.53:055][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.53:070][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.06-20.26.53:072][216]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.26.53:789][292]Cmd: DELETE
+[2026.02.06-20.26.53:789][292]Cmd: ACTOR DELETE
+[2026.02.06-20.26.53:791][292]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.53:807][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.06-20.26.53:809][292]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.06-20.26.54:400][352]Cmd: DELETE
+[2026.02.06-20.26.54:400][352]Cmd: ACTOR DELETE
+[2026.02.06-20.26.54:401][352]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.54:417][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.26.54:419][352]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.06-20.26.55:111][422]Cmd: DELETE
+[2026.02.06-20.26.55:111][422]Cmd: ACTOR DELETE
+[2026.02.06-20.26.55:112][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.55:141][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.06-20.26.55:144][422]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.02.06-20.26.55:750][482]Cmd: DELETE
+[2026.02.06-20.26.55:750][482]Cmd: ACTOR DELETE
+[2026.02.06-20.26.55:752][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.55:768][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.06-20.26.55:770][482]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.26.56:531][563]Cmd: DELETE
+[2026.02.06-20.26.56:531][563]Cmd: ACTOR DELETE
+[2026.02.06-20.26.56:532][563]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.56:552][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.06-20.26.56:554][563]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.06-20.26.57:279][639]Cmd: DELETE
+[2026.02.06-20.26.57:279][639]Cmd: ACTOR DELETE
+[2026.02.06-20.26.57:280][639]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.57:295][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.26.57:298][639]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.26.57:951][707]Cmd: DELETE
+[2026.02.06-20.26.57:951][707]Cmd: ACTOR DELETE
+[2026.02.06-20.26.57:952][707]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.57:969][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.06-20.26.57:971][707]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.06-20.26.58:599][770]Cmd: DELETE
+[2026.02.06-20.26.58:599][770]Cmd: ACTOR DELETE
+[2026.02.06-20.26.58:601][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.58:615][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.06-20.26.58:618][770]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.26.59:260][834]Cmd: DELETE
+[2026.02.06-20.26.59:260][834]Cmd: ACTOR DELETE
+[2026.02.06-20.26.59:261][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.26.59:277][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.06-20.26.59:279][834]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.27.00:197][932]Cmd: DELETE
+[2026.02.06-20.27.00:198][932]Cmd: ACTOR DELETE
+[2026.02.06-20.27.00:199][932]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.00:214][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.27.00:215][932]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.06-20.27.00:884][  2]Cmd: DELETE
+[2026.02.06-20.27.00:884][  2]Cmd: ACTOR DELETE
+[2026.02.06-20.27.00:885][  2]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.00:901][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.06-20.27.00:903][  2]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.27.01:957][109]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5473.681641
+[2026.02.06-20.27.02:033][119]Cmd: DELETE
+[2026.02.06-20.27.02:033][119]Cmd: ACTOR DELETE
+[2026.02.06-20.27.02:034][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.02:053][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.06-20.27.02:055][119]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.02.06-20.27.02:184][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.06-20.27.02:184][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5473.901367, Update Interval: 317.670227
+[2026.02.06-20.27.02:865][203]Cmd: DELETE
+[2026.02.06-20.27.02:865][203]Cmd: ACTOR DELETE
+[2026.02.06-20.27.02:866][203]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.02:882][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.06-20.27.02:884][203]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.27.03:599][276]Cmd: DELETE
+[2026.02.06-20.27.03:599][276]Cmd: ACTOR DELETE
+[2026.02.06-20.27.03:600][276]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.03:615][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.06-20.27.03:617][276]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.27.04:279][344]Cmd: DELETE
+[2026.02.06-20.27.04:279][344]Cmd: ACTOR DELETE
+[2026.02.06-20.27.04:280][344]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.04:301][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.06-20.27.04:303][344]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.02.06-20.27.05:082][425]Cmd: DELETE
+[2026.02.06-20.27.05:082][425]Cmd: ACTOR DELETE
+[2026.02.06-20.27.05:083][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.05:099][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.06-20.27.05:101][425]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.27.05:873][505]Cmd: DELETE
+[2026.02.06-20.27.05:873][505]Cmd: ACTOR DELETE
+[2026.02.06-20.27.05:874][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.05:889][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.06-20.27.05:891][505]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.27.06:389][553]Cmd: DELETE
+[2026.02.06-20.27.06:389][553]Cmd: ACTOR DELETE
+[2026.02.06-20.27.06:390][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.06:405][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.27.06:408][553]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.27.07:436][653]Cmd: DELETE
+[2026.02.06-20.27.07:436][653]Cmd: ACTOR DELETE
+[2026.02.06-20.27.07:436][653]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.02.06-20.27.07:437][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.07:455][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.06-20.27.07:457][653]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.02.06-20.27.08:165][727]Cmd: DELETE
+[2026.02.06-20.27.08:165][727]Cmd: ACTOR DELETE
+[2026.02.06-20.27.08:166][727]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.08:190][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.27.08:192][727]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.02.06-20.27.08:897][799]Cmd: DELETE
+[2026.02.06-20.27.08:897][799]Cmd: ACTOR DELETE
+[2026.02.06-20.27.08:899][799]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.08:913][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.06-20.27.08:915][799]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.27.09:828][896]Cmd: DELETE
+[2026.02.06-20.27.09:829][896]Cmd: ACTOR DELETE
+[2026.02.06-20.27.09:830][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.09:846][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.27.09:849][896]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.27.10:689][985]Cmd: DELETE
+[2026.02.06-20.27.10:689][985]Cmd: ACTOR DELETE
+[2026.02.06-20.27.10:691][985]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.10:708][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.06-20.27.10:710][985]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.02.06-20.27.15:701][297]Cmd: DELETE
+[2026.02.06-20.27.15:701][297]Cmd: ACTOR DELETE
+[2026.02.06-20.27.15:702][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.15:718][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.06-20.27.15:720][297]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.27.16:621][395]Cmd: DELETE
+[2026.02.06-20.27.16:621][395]Cmd: ACTOR DELETE
+[2026.02.06-20.27.16:622][395]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.16:638][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.02.06-20.27.16:640][395]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.27.17:460][483]Cmd: DELETE
+[2026.02.06-20.27.17:460][483]Cmd: ACTOR DELETE
+[2026.02.06-20.27.17:461][483]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.17:477][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.06-20.27.17:479][483]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.27.18:302][572]Cmd: DELETE
+[2026.02.06-20.27.18:302][572]Cmd: ACTOR DELETE
+[2026.02.06-20.27.18:304][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.18:322][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.06-20.27.18:324][572]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.06-20.27.19:118][657]Cmd: DELETE
+[2026.02.06-20.27.19:118][657]Cmd: ACTOR DELETE
+[2026.02.06-20.27.19:119][657]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.19:137][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.27.19:138][657]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.06-20.27.19:788][723]Cmd: DELETE
+[2026.02.06-20.27.19:788][723]Cmd: ACTOR DELETE
+[2026.02.06-20.27.19:790][723]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.19:805][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.27.19:807][723]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.27.21:011][857]Cmd: DELETE
+[2026.02.06-20.27.21:011][857]Cmd: ACTOR DELETE
+[2026.02.06-20.27.21:013][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.21:050][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.06-20.27.21:052][857]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.02.06-20.27.21:687][923]Cmd: DELETE
+[2026.02.06-20.27.21:687][923]Cmd: ACTOR DELETE
+[2026.02.06-20.27.21:687][923]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.21:705][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.06-20.27.21:707][923]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.06-20.27.24:932][289]Cmd: DELETE
+[2026.02.06-20.27.24:932][289]Cmd: ACTOR DELETE
+[2026.02.06-20.27.24:933][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.24:949][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.27.24:951][289]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.27.25:877][388]Cmd: DELETE
+[2026.02.06-20.27.25:877][388]Cmd: ACTOR DELETE
+[2026.02.06-20.27.25:878][388]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.25:893][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.06-20.27.25:895][388]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.27.27:191][532]Cmd: DELETE
+[2026.02.06-20.27.27:191][532]Cmd: ACTOR DELETE
+[2026.02.06-20.27.27:193][532]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.27:208][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.06-20.27.27:210][532]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.06-20.27.28:324][654]Cmd: DELETE
+[2026.02.06-20.27.28:324][654]Cmd: ACTOR DELETE
+[2026.02.06-20.27.28:325][654]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.28:340][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.06-20.27.28:342][654]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.06-20.27.34:767][354]Cmd: DELETE
+[2026.02.06-20.27.34:767][354]Cmd: ACTOR DELETE
+[2026.02.06-20.27.34:768][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.06-20.27.34:784][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.02.06-20.27.34:787][354]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.06-20.27.41:875][140]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.02.06-20.27.44:831][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.BP_RotateAroundZAxes_C
+[2026.02.06-20.27.44:831][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.BP_RotateAroundZAxes_C
+[2026.02.06-20.27.44:832][433]LogActorFactory: Actor Factory spawned Blueprint /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.BP_RotateAroundZAxes as actor: BP_RotateAroundZAxes_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_RotateAroundZAxes_C_0
+[2026.02.06-20.27.44:833][433]LogActorFactory: Actor Factory spawned Blueprint /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.BP_RotateAroundZAxes as actor: BP_RotateAroundZAxes_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_RotateAroundZAxes_C_0
+[2026.02.06-20.27.44:836][433]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.06-20.27.46:485][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.06-20.27.46:488][625]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.02.06-20.27.46:491][625]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.BP_RotateAroundZAxes_C
+[2026.02.06-20.27.46:491][625]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.BP_RotateAroundZAxes_C
+[2026.02.06-20.27.46:492][625]LogActorFactory: Actor Factory spawned Blueprint /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.BP_RotateAroundZAxes as actor: BP_RotateAroundZAxes_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_RotateAroundZAxes_C_UAID_CC28AAA3BF0AA0BC02_2006680184
+[2026.02.06-20.27.46:493][625]LogActorFactory: Actor Factory spawned Blueprint /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.BP_RotateAroundZAxes as actor: BP_RotateAroundZAxes_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_RotateAroundZAxes_C_UAID_CC28AAA3BF0AA0BC02_2006680184
+[2026.02.06-20.28.02:837][557]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.02.06-20.28.02:837][557]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.02.06-20.28.02:838][557]LogActorFactory: Actor Factory spawned Class /Script/Engine.PointLight as actor: PointLight /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PointLight_UAID_CC28AAA3BF0AA0BC02_2023026185
+[2026.02.06-20.28.02:839][557]LogActorFactory: Actor Factory spawned Class /Script/Engine.PointLight as actor: PointLight /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PointLight_UAID_CC28AAA3BF0AA0BC02_2023026185
+[2026.02.06-20.28.03:939][681]Cmd: DELETE
+[2026.02.06-20.28.03:939][681]Cmd: ACTOR DELETE
+[2026.02.06-20.28.03:941][681]LogEditorActor: Deleted Actor: PointLight
+[2026.02.06-20.28.03:958][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.06-20.28.03:959][681]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.06-20.28.37:724][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.06-20.28.37:759][546]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2026.02.06-20.28.55:299][568]LogShaderCompilers: Display: ================================================
+[2026.02.06-20.28.55:299][568]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.06-20.28.55:299][568]LogShaderCompilers: Display: Total job queries 461, among them cache hits 26 (5.64%), DDC hits 318 (68.98%), Duplicates 70 (15.18%)
+[2026.02.06-20.28.55:299][568]LogShaderCompilers: Display: Tracking 365 distinct input hashes that result in 261 distinct outputs (71.51%)
+[2026.02.06-20.28.55:299][568]LogShaderCompilers: Display: RAM used: 3.53 MiB of 1.60 GiB budget. Usage: 0.22%
+[2026.02.06-20.28.55:299][568]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.06-20.28.55:299][568]LogShaderCompilers: Display: Shaders Compiled: 47
+[2026.02.06-20.28.55:299][568]LogShaderCompilers: Display: Jobs assigned 47, completed 47 (100%)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Average time worker was idle: 5.03 s
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Time job spent in pending queue: average 0.99 s, longest 2.45 s
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 2.23 s
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 3.16
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Shader code size: total 511.176 KiB, numShaders 52, average 9.83 KiB, min 2.691 KiB, max 31.977 KiB
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.54 s
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.07%
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Jobs were issued in 47 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Average processing rate: 10.34 jobs/sec
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Total thread time: 26.16 s
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Total thread preprocess time: 11.318 s
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Percentage time preprocessing: 43.27%
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Effective parallelization: 5.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.479656
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.52 sec, max 1.59 sec, min 1.48 sec)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.13 sec, max 1.13 sec, min 1.13 sec)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.84 sec, max 0.86 sec, min 0.81 sec)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.79 sec, max 0.84 sec, min 0.74 sec)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 17.44% of total time (compiled    3 times, average 1.52 sec, max 1.59 sec, min 1.48 sec)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.82% of total time (compiled    4 times, average 0.64 sec, max 0.75 sec, min 0.52 sec)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display:                                                  FHitProxyPS - 6.60% of total time (compiled    5 times, average 0.35 sec, max 0.38 sec, min 0.28 sec)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display:                                                  FVelocityPS - 6.39% of total time (compiled    2 times, average 0.84 sec, max 0.86 sec, min 0.81 sec)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display:                                                FAnisotropyPS - 6.07% of total time (compiled    2 times, average 0.79 sec, max 0.84 sec, min 0.74 sec)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: === Material stats ===
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Materials Translated:    183
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Material Total Translate Time: 0.37 s
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Material Translation Only: 0.09 s (25%)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: Material Cache Hits: 12 (7%)
+[2026.02.06-20.28.55:300][568]LogShaderCompilers: Display: ================================================
+[2026.02.06-20.29.07:604][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.06-20.29.08:575][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-20.29.08:621][115]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes] ([2] browsable assets)...
+[2026.02.06-20.29.08:666][115]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.BP_RotateAroundZAxes]
+[2026.02.06-20.29.08:666][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes]
+[2026.02.06-20.29.08:676][115]LogSavePackage: Moving output files for package: /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes
+[2026.02.06-20.29.08:676][115]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/BP_RotateAroundZAxes2B6A0D114EB91E7F8383A4BF304A3406.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.uasset'
+[2026.02.06-20.29.09:049][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 474.103 ms (total: 1.71 sec)
+[2026.02.06-20.29.09:087][115]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.06-20.29.09:088][115]LogContentValidation: Enabled validators:
+[2026.02.06-20.29.09:088][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.06-20.29.09:088][115]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.06-20.29.09:088][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.06-20.29.09:088][115]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.06-20.29.09:088][115]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.06-20.29.09:088][115]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.06-20.29.09:088][115]AssetCheck: /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes Validating asset
+[2026.02.06-20.29.40:555][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.06-20.29.42:192][921]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.06-20.29.42:198][921]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.06-20.29.42:198][921]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.02.06-20.29.42:200][921]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.101 ms
+[2026.02.06-20.29.42:203][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.06-20.29.42:211][921]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.02.06-20.29.42:211][921]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.02.06-20.29.42:212][921]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.02.06-20.29.42:215][921]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.06-20.29.42:215][921]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 299 us
+[2026.02.06-20.29.42:215][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002852s)
+[2026.02.06-20.29.42:215][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002979s)
+[2026.02.06-20.29.42:232][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.06-20.29.42:234][921]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.02.06-20.29.42:236][921]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.06-20.29.42:236][921]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.06-20.29.42:236][921]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.06-20.29.42:236][921]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.06-20.29.42:237][921]LogWorldPartition: Display: WorldPartition initialize took 1.123 ms (total: 484.604 ms)
+[2026.02.06-20.29.42:237][921]LogPlayLevel: PIE: World Init took: (0.003019s)
+[2026.02.06-20.29.42:238][921]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.02.06-20.29.42:238][921]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.06-20.29.42:238][921]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.06-20.29.42:238][921]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.06-20.29.42:238][921]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.06-20.29.42:238][921]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.06-20.29.42:238][921]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.06-20.29.42:238][921]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.06-20.29.42:238][921]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.06-20.29.42:238][921]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.06-20.29.42:238][921]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.06-20.29.42:238][921]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.06-20.29.42:240][921]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.06-20.29.42:257][921]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2026.02.06-20.29.42:257][921]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.06-20.29.42:257][921]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.06-20.29.42:257][921]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.06-20.29.42:258][921]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.02.06-20.29.42:258][921]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.02.06-20.29.42:259][921]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.02.06-20.29.42:259][921]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.02.06-20.29.42:259][921]LogInit: FAudioDevice initialized with ID 2.
+[2026.02.06-20.29.42:259][921]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_FirstPerson'.
+[2026.02.06-20.29.42:259][921]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.06-20.29.42:267][921]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.06-20.29.42:269][921]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.02.07-00.29.42
+[2026.02.06-20.29.42:269][921]LogWorld: Bringing up level for play took: 0.001065
+[2026.02.06-20.29.42:271][921]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.02.06-20.29.42:322][921]PIE: Server logged in
+[2026.02.06-20.29.42:324][921]PIE: Play in editor total start time 0.128 seconds.
+[2026.02.06-20.29.42:396][922]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.06-20.29.50:439][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-20.29.50:439][870]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.02.06-20.29.50:439][870]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.06-20.29.50:441][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-20.29.50:441][870]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.06-20.29.50:445][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.06-20.29.50:447][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-20.29.50:465][870]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.06-20.29.50:465][870]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.06-20.29.50:466][870]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.02.06-20.29.50:468][870]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.02.06-20.29.50:473][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-20.29.50:475][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.02.06-20.29.50:514][871]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.02.06-20.30.07:895][813]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9.star_citizen_workflow_to_sketchfab_decals_9
+[2026.02.06-20.30.07:906][813]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.02.06-20.30.07:909][813]LogStreaming: Display: FlushAsyncLoading(661): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.06-20.30.13:008][303]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9) ...
+[2026.02.06-20.30.13:131][303]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9) ...
+[2026.02.06-20.30.14:309][426]LogEditorTransaction: Undo StaticMesh: Material changed
+[2026.02.06-20.30.14:329][426]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9) ...
+[2026.02.06-20.30.16:030][569]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9) ...
+[2026.02.06-20.30.16:379][569]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9) ...
+[2026.02.06-20.30.24:413][497]Cmd: TRANSACTION UNDO
+[2026.02.06-20.30.24:413][497]LogEditorTransaction: Undo StaticMesh: Material changed
+[2026.02.06-20.30.24:434][497]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9) ...
+[2026.02.06-20.30.31:021][155]Cmd: TRANSACTION UNDO
+[2026.02.06-20.30.31:021][155]LogEditorTransaction: Undo Move Elements
+[2026.02.06-20.30.37:133][826]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.30.37:133][826]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.30.37:133][826]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.31.02:484][695]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.02.06-20.31.03:587][817]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.06-20.31.03:590][817]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.06-20.31.03:590][817]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.02.06-20.31.03:591][817]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 610 us (total: 2.711 ms)
+[2026.02.06-20.31.03:591][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.06-20.31.03:627][817]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.02.06-20.31.03:629][817]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.06-20.31.03:629][817]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 276 us (total: 576 us)
+[2026.02.06-20.31.03:629][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002242s)
+[2026.02.06-20.31.03:629][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002281s)
+[2026.02.06-20.31.03:658][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.06-20.31.03:659][817]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.02.06-20.31.03:660][817]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.06-20.31.03:660][817]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.06-20.31.03:660][817]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.06-20.31.03:660][817]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.06-20.31.03:661][817]LogWorldPartition: Display: WorldPartition initialize took 515 us (total: 485.120 ms)
+[2026.02.06-20.31.03:661][817]LogPlayLevel: PIE: World Init took: (0.001939s)
+[2026.02.06-20.31.03:662][817]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.02.06-20.31.03:662][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.06-20.31.03:662][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.06-20.31.03:662][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.06-20.31.03:662][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.06-20.31.03:662][817]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.06-20.31.03:662][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.06-20.31.03:662][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.06-20.31.03:662][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.06-20.31.03:662][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.06-20.31.03:662][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.06-20.31.03:662][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.06-20.31.03:664][817]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.06-20.31.03:679][817]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2026.02.06-20.31.03:680][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.06-20.31.03:680][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.06-20.31.03:680][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.06-20.31.03:680][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.02.06-20.31.03:680][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.02.06-20.31.03:682][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.02.06-20.31.03:682][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.02.06-20.31.03:682][817]LogInit: FAudioDevice initialized with ID 3.
+[2026.02.06-20.31.03:682][817]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_FirstPerson'.
+[2026.02.06-20.31.03:682][817]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.06-20.31.03:684][817]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.06-20.31.03:686][817]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.02.07-00.31.03
+[2026.02.06-20.31.03:686][817]LogWorld: Bringing up level for play took: 0.000811
+[2026.02.06-20.31.03:688][817]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.02.06-20.31.03:693][817]PIE: Server logged in
+[2026.02.06-20.31.03:695][817]PIE: Play in editor total start time 0.105 seconds.
+[2026.02.06-20.31.03:739][818]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.06-20.31.05:777][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-20.31.05:777][ 54]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.02.06-20.31.05:778][ 54]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.06-20.31.05:778][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-20.31.05:778][ 54]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.06-20.31.05:781][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.06-20.31.05:783][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-20.31.05:798][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-20.31.05:798][ 54]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.06-20.31.05:798][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.02.06-20.31.05:800][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.02.06-20.31.05:804][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.06-20.31.05:841][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.02.06-20.31.12:470][798]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.02.06-20.31.13:551][924]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.06-20.31.13:556][924]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.06-20.31.13:556][924]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.02.06-20.31.13:556][924]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 546 us (total: 3.258 ms)
+[2026.02.06-20.31.13:556][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.06-20.31.13:556][924]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.02.06-20.31.13:558][924]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.06-20.31.13:559][924]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 302 us (total: 879 us)
+[2026.02.06-20.31.13:559][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002219s)
+[2026.02.06-20.31.13:559][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002244s)
+[2026.02.06-20.31.13:575][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.06-20.31.13:576][924]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.02.06-20.31.13:577][924]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.06-20.31.13:577][924]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.06-20.31.13:577][924]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.06-20.31.13:577][924]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.06-20.31.13:578][924]LogWorldPartition: Display: WorldPartition initialize took 484 us (total: 485.605 ms)
+[2026.02.06-20.31.13:578][924]LogPlayLevel: PIE: World Init took: (0.001695s)
+[2026.02.06-20.31.13:578][924]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.02.06-20.31.13:578][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.06-20.31.13:578][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.06-20.31.13:578][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.06-20.31.13:578][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.06-20.31.13:578][924]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.06-20.31.13:578][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.06-20.31.13:578][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.06-20.31.13:578][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.06-20.31.13:578][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.06-20.31.13:578][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.06-20.31.13:578][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.06-20.31.13:580][924]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.06-20.31.13:596][924]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2026.02.06-20.31.13:596][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.06-20.31.13:596][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.06-20.31.13:596][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.06-20.31.13:596][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.02.06-20.31.13:596][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.02.06-20.31.13:598][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.02.06-20.31.13:598][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.02.06-20.31.13:598][924]LogInit: FAudioDevice initialized with ID 4.
+[2026.02.06-20.31.13:598][924]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_FirstPerson'.
+[2026.02.06-20.31.13:598][924]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.06-20.31.13:600][924]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.06-20.31.13:601][924]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.02.07-00.31.13
+[2026.02.06-20.31.13:602][924]LogWorld: Bringing up level for play took: 0.000837
+[2026.02.06-20.31.13:603][924]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.02.06-20.31.13:608][924]PIE: Server logged in
+[2026.02.06-20.31.13:610][924]PIE: Play in editor total start time 0.054 seconds.
+[2026.02.06-20.31.13:661][925]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.06-20.31.27:997][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-20.31.27:997][639]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.02.06-20.31.27:997][639]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.06-20.31.27:997][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-20.31.27:997][639]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.06-20.31.28:000][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.06-20.31.28:003][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-20.31.28:019][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-20.31.28:019][639]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.06-20.31.28:019][639]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.02.06-20.31.28:020][639]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.02.06-20.31.28:026][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.06-20.31.28:104][641]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.02.06-20.31.55:238][711]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.06-20.31.55:241][711]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.06-20.31.55:241][711]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.02.06-20.31.55:242][711]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 562 us (total: 3.820 ms)
+[2026.02.06-20.31.55:242][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.06-20.31.55:276][711]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.02.06-20.31.55:278][711]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.06-20.31.55:278][711]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 273 us (total: 1.152 ms)
+[2026.02.06-20.31.55:278][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002250s)
+[2026.02.06-20.31.55:278][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002280s)
+[2026.02.06-20.31.55:297][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.06-20.31.55:299][711]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.02.06-20.31.55:300][711]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.06-20.31.55:301][711]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.06-20.31.55:301][711]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.06-20.31.55:301][711]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.06-20.31.55:301][711]LogWorldPartition: Display: WorldPartition initialize took 540 us (total: 486.145 ms)
+[2026.02.06-20.31.55:301][711]LogPlayLevel: PIE: World Init took: (0.001829s)
+[2026.02.06-20.31.55:302][711]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.02.06-20.31.55:302][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.06-20.31.55:302][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.06-20.31.55:302][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.06-20.31.55:302][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.06-20.31.55:302][711]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.06-20.31.55:302][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.06-20.31.55:302][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.06-20.31.55:302][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.06-20.31.55:302][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.06-20.31.55:302][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.06-20.31.55:302][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.06-20.31.55:303][711]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.06-20.31.55:319][711]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2026.02.06-20.31.55:319][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.06-20.31.55:319][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.06-20.31.55:319][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.06-20.31.55:320][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.02.06-20.31.55:320][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.02.06-20.31.55:322][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.02.06-20.31.55:322][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.02.06-20.31.55:322][711]LogInit: FAudioDevice initialized with ID 5.
+[2026.02.06-20.31.55:322][711]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_FirstPerson'.
+[2026.02.06-20.31.55:322][711]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.06-20.31.55:325][711]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.06-20.31.55:326][711]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.02.07-00.31.55
+[2026.02.06-20.31.55:326][711]LogWorld: Bringing up level for play took: 0.000712
+[2026.02.06-20.31.55:328][711]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.02.06-20.31.55:332][711]PIE: Server logged in
+[2026.02.06-20.31.55:334][711]PIE: Play in editor total start time 0.093 seconds.
+[2026.02.06-20.31.55:378][712]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.06-20.32.10:936][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-20.32.10:936][572]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.02.06-20.32.10:937][572]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.06-20.32.10:937][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-20.32.10:937][572]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.06-20.32.10:939][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.06-20.32.10:942][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.06-20.32.10:957][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.06-20.32.10:957][572]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.06-20.32.10:957][572]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.02.06-20.32.10:959][572]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.02.06-20.32.10:965][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.06-20.32.11:039][574]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.02.06-20.32.16:439][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.06-20.32.17:842][211]LogSlate: Window 'Save Content' being destroyed
+[2026.02.06-20.32.19:231][211]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.32.19:231][211]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.32.19:231][211]SourceControl: Error: warning: could not open directory 'Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/': No such file or directory
+[2026.02.06-20.32.19:288][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-20.32.20:568][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.06-20.32.20:585][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.06-20.32.20:605][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/3M/CN6DASGRPPAPEICARMETU3.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/9S/AT66MUZW91DYUD6WM5FH0P.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/W0/RTEFXSATTAVCPYEQHKNEY1.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/IJ/E7WQWO4MJ84GWAX8H4UR84.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/2H/HS4VI3UZJT1LNKM6HC7PL2.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/KL/17EY7JSE7TF01OWV9LBSC1.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/BN/PJBVMDVV9BICN8MLKJ849X.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/TG/2MDU2GF02TMAKTSII7ZI7V.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/HV/3VH3D4CLM38OC4F8ICXDVQ.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/U9/AHG6736Q2Y3SGC1JQONLFJ.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/8V/Q896X99E5DMTT521YEXM9A.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/P7/9DOH3BZKA2A8C7ZTDWILWC.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2N/XWEBNOYZ7JA5DZOPBGZ71S.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/QF/0MZRSMWGNM91UYLLVJ3D8E.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/TT/AN7EDCE3WNBXY7C6MLPGQH.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/6I/29E05UQXOAGP6TCP5CN0BQ.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/LE/5ZDRK6QRB1CF1JSS3HJKPV.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/56/I0F38RE5S8MZ8PNQ5GDDSS.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/TI/UOUH4EXJHIGJNF2D0Y7CPX.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/7M/FNN1ELJOC3KQT4JN0YDHT6.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/V6/DING1S8EVR2AQW03U1ABGV.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/WL/M7MJFQ0T76JWU6F1Z7YH8J.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/1X/SN5R6LIXKDO3W51X1TVUTZ.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/3X/YJ94LSV2G9NAIYZIK96QLE.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/TO/58Y2HCG1B7M6VAJN1E38IS.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/SP/2T0RTK13XAOOIQD0QTXDQ9.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/IH/6AC5KKMX2JQTMBRMPI2QXX.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/I5/5U3R0J6P3EIOET939AGA6V.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/U8/LL0QNHFPYL403X5YW0FGG6.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/9C/F5Z2JNQMT747Y7QES5KOP7.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/8B/S2VB6OCHYGRYWAD0QGDM9H.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/D2/66RZ3E9MEBJPV125V7SWQ6.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/J3/JQWZC33CXMXDX87CAIWJ94.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/8O/BVYOAIREBMOAK7193TKE2N.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/HH/BIAWP2Z8HW32809JWMRLU3.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/ER/GJUIXEEO8HUV9WZCSZR9GH.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/QB/9YXJRQGLS33G0BEH37USBX.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N3/FQV2FW1I8D4Z06TF38UTCR.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/44/E30ITTGIQYU50RQY5Y9XCY.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/U0/N7D7PHGDI2A4EOLD58TA92.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/IP/FTEAYZDQR9M2KDS0TEPHA0.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/I3/0VVXG3S0B4RN6QSHFSGKGX.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/W2/920TYXDM12T8GKK1E0M892.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/OC/XS0DUOELE7HJY3F9XZSBNV.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.21:852][211]SourceControl: Error: error: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/LJ/OQX9YN9UJ9NNRX6ERJ3PPZ.uasset' did not match any file(s) known to git
+[2026.02.06-20.32.23:099][211]SourceControl: Error: fatal: pathspec 'C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/3M/CN6DASGRPPAPEICARMETU3.uasset' did not match any files
+[2026.02.06-20.32.23:102][211]LogObjectTools: Warning: SCC failed to open the selected files for deletion.
+[2026.02.06-20.32.23:104][211]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes] ([2] browsable assets)...
+[2026.02.06-20.32.23:155][211]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.BP_RotateAroundZAxes]
+[2026.02.06-20.32.23:155][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes]
+[2026.02.06-20.32.23:166][211]LogSavePackage: Moving output files for package: /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes
+[2026.02.06-20.32.23:166][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/BP_RotateAroundZAxes13D7B3A9490EF8A07F21B093F634AF15.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes.uasset'
+[2026.02.06-20.32.23:173][211]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/M9/YN1N2TMERUSKDNHABSQVK0
+[2026.02.06-20.32.23:173][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/YN1N2TMERUSKDNHABSQVK08AF05166441E7C322C7C67B89D2ABD15.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/M9/YN1N2TMERUSKDNHABSQVK0.uasset'
+[2026.02.06-20.32.23:180][211]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE
+[2026.02.06-20.32.23:180][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/FSMNL3KLM133J5VKZAU0BE3FACA3B94A31E5A43EBC17A0C96AF86C.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset'
+[2026.02.06-20.32.23:181][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material] ([1] browsable assets)...
+[2026.02.06-20.32.23:187][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material.Material]
+[2026.02.06-20.32.23:187][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material]
+[2026.02.06-20.32.23:194][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material
+[2026.02.06-20.32.23:194][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material0AA702AA4C05260D1DDA079C2F801ED7.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material.uasset'
+[2026.02.06-20.32.23:197][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_001] ([1] browsable assets)...
+[2026.02.06-20.32.23:202][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_001.Material_001]
+[2026.02.06-20.32.23:203][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_001]
+[2026.02.06-20.32.23:210][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_001
+[2026.02.06-20.32.23:210][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_001EA4C1C1E4BFE60E89FC4BE883B1032F2.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_001.uasset'
+[2026.02.06-20.32.23:211][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_002] ([1] browsable assets)...
+[2026.02.06-20.32.23:216][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_002.Material_002]
+[2026.02.06-20.32.23:216][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_002]
+[2026.02.06-20.32.23:223][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_002
+[2026.02.06-20.32.23:223][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_00261F21BA54063D2ACBE6822B3E2CC5D07.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_002.uasset'
+[2026.02.06-20.32.23:224][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_003] ([1] browsable assets)...
+[2026.02.06-20.32.23:229][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_003.Material_003]
+[2026.02.06-20.32.23:229][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_003]
+[2026.02.06-20.32.23:236][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_003
+[2026.02.06-20.32.23:236][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_003915E075344247C259EA3D1A360537490.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_003.uasset'
+[2026.02.06-20.32.23:237][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_004] ([1] browsable assets)...
+[2026.02.06-20.32.23:242][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_004.Material_004]
+[2026.02.06-20.32.23:242][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_004]
+[2026.02.06-20.32.23:250][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_004
+[2026.02.06-20.32.23:250][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_004AFAB115044C7A0A7F6CF4280ED01C1F3.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_004.uasset'
+[2026.02.06-20.32.23:251][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_005] ([1] browsable assets)...
+[2026.02.06-20.32.23:257][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_005.Material_005]
+[2026.02.06-20.32.23:257][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_005]
+[2026.02.06-20.32.23:263][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_005
+[2026.02.06-20.32.23:263][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_005A7CA13714427FC13CD1C31A917F4336E.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_005.uasset'
+[2026.02.06-20.32.23:264][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_006] ([1] browsable assets)...
+[2026.02.06-20.32.23:269][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_006.Material_006]
+[2026.02.06-20.32.23:269][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_006]
+[2026.02.06-20.32.23:276][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_006
+[2026.02.06-20.32.23:276][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_006CEBF8C7F4763F8A29072309CE19BE49D.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_006.uasset'
+[2026.02.06-20.32.23:277][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_007] ([1] browsable assets)...
+[2026.02.06-20.32.23:283][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_007.Material_007]
+[2026.02.06-20.32.23:283][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_007]
+[2026.02.06-20.32.23:289][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_007
+[2026.02.06-20.32.23:289][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_007E9A243604D4A918685FAFAAF28203C42.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_007.uasset'
+[2026.02.06-20.32.23:290][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_008] ([1] browsable assets)...
+[2026.02.06-20.32.23:296][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_008.Material_008]
+[2026.02.06-20.32.23:296][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_008]
+[2026.02.06-20.32.23:302][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_008
+[2026.02.06-20.32.23:302][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_00896429C1140291943F9A11E8B34F1EEDE.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_008.uasset'
+[2026.02.06-20.32.23:304][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_009] ([1] browsable assets)...
+[2026.02.06-20.32.23:310][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_009.Material_009]
+[2026.02.06-20.32.23:310][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_009]
+[2026.02.06-20.32.23:317][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_009
+[2026.02.06-20.32.23:317][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_00919E70A0D40C0CC6F71C01BA4757D3FA6.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_009.uasset'
+[2026.02.06-20.32.23:318][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_010] ([1] browsable assets)...
+[2026.02.06-20.32.23:323][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_010.Material_010]
+[2026.02.06-20.32.23:323][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_010]
+[2026.02.06-20.32.23:330][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_010
+[2026.02.06-20.32.23:330][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_010DF5250B646762967D2DCD8919BBA372A.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_010.uasset'
+[2026.02.06-20.32.23:331][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_011] ([1] browsable assets)...
+[2026.02.06-20.32.23:336][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_011.Material_011]
+[2026.02.06-20.32.23:336][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_011]
+[2026.02.06-20.32.23:342][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_011
+[2026.02.06-20.32.23:342][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_01184127D0F4564F36F2D5CF583CC991B7B.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_011.uasset'
+[2026.02.06-20.32.23:343][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_012] ([1] browsable assets)...
+[2026.02.06-20.32.23:349][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_012.Material_012]
+[2026.02.06-20.32.23:349][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_012]
+[2026.02.06-20.32.23:356][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_012
+[2026.02.06-20.32.23:356][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_0122E56C6BE4EF06FF1255F9586C61CDEA3.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_012.uasset'
+[2026.02.06-20.32.23:357][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_013] ([1] browsable assets)...
+[2026.02.06-20.32.23:362][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_013.Material_013]
+[2026.02.06-20.32.23:362][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_013]
+[2026.02.06-20.32.23:370][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_013
+[2026.02.06-20.32.23:370][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_0134D4018B745F8D3D249920D91ED564895.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_013.uasset'
+[2026.02.06-20.32.23:371][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_014] ([1] browsable assets)...
+[2026.02.06-20.32.23:375][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_014.Material_014]
+[2026.02.06-20.32.23:376][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_014]
+[2026.02.06-20.32.23:382][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_014
+[2026.02.06-20.32.23:382][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_014B98746F24109C06E6D27E6897F31CF47.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_014.uasset'
+[2026.02.06-20.32.23:383][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_015] ([1] browsable assets)...
+[2026.02.06-20.32.23:389][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_015.Material_015]
+[2026.02.06-20.32.23:389][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_015]
+[2026.02.06-20.32.23:395][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_015
+[2026.02.06-20.32.23:395][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/Material_015AD5169844862EC1D091A2E9F74A5AA21.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_015.uasset'
+[2026.02.06-20.32.23:402][211]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0
+[2026.02.06-20.32.23:402][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/CIZR6W2NYH4Y5P8G67XOU0FE800A254AEF7D5A13904D925698B9A1.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset'
+[2026.02.06-20.32.23:403][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/ground_low_Baked] ([1] browsable assets)...
+[2026.02.06-20.32.23:409][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/ground_low_Baked.ground_low_Baked]
+[2026.02.06-20.32.23:409][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/ground_low_Baked]
+[2026.02.06-20.32.23:415][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/ground_low_Baked
+[2026.02.06-20.32.23:415][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/ground_low_Baked913FC88F4F1A6E860CEA73BFA5C7D8E3.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/ground_low_Baked.uasset'
+[2026.02.06-20.32.23:416][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_info] ([1] browsable assets)...
+[2026.02.06-20.32.23:421][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_info.p_132_CirclePattern_info]
+[2026.02.06-20.32.23:421][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_info]
+[2026.02.06-20.32.23:429][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_info
+[2026.02.06-20.32.23:429][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/p_132_CirclePattern_infoA17B6D02421DFB891D403881BF263925.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_info.uasset'
+[2026.02.06-20.32.23:430][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_normal] ([1] browsable assets)...
+[2026.02.06-20.32.23:435][211]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_normal.p_132_CirclePattern_normal]
+[2026.02.06-20.32.23:435][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_normal]
+[2026.02.06-20.32.23:442][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_normal
+[2026.02.06-20.32.23:442][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/p_132_CirclePattern_normal48F4F56648DC507E5CE7C593DB4D8F48.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_normal.uasset'
+[2026.02.06-20.32.23:443][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_0] ([1] browsable assets)...
+[2026.02.06-20.32.23:445][211]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_0.star_citizen_workflow_to__etchfab_decals_9_texture_0]
+[2026.02.06-20.32.23:445][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_0]
+[2026.02.06-20.32.23:542][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_0
+[2026.02.06-20.32.23:542][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/star_citizen_workflow_to__etchfa1EF0A5474AD546E0EB7ACFAD8C59875E.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_0.uasset'
+[2026.02.06-20.32.23:544][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_1] ([1] browsable assets)...
+[2026.02.06-20.32.23:545][211]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_1.star_citizen_workflow_to__etchfab_decals_9_texture_1]
+[2026.02.06-20.32.23:545][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_1]
+[2026.02.06-20.32.23:653][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_1
+[2026.02.06-20.32.23:653][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/star_citizen_workflow_to__etchfa532B649F412958D91705309DC23C48AB.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_1.uasset'
+[2026.02.06-20.32.23:654][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_2] ([1] browsable assets)...
+[2026.02.06-20.32.23:655][211]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_2.star_citizen_workflow_to__etchfab_decals_9_texture_2]
+[2026.02.06-20.32.23:655][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_2]
+[2026.02.06-20.32.23:729][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_2
+[2026.02.06-20.32.23:729][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/star_citizen_workflow_to__etchfaE85BF22B41D2622159CE15B850E07CE9.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_2.uasset'
+[2026.02.06-20.32.23:730][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_3] ([1] browsable assets)...
+[2026.02.06-20.32.23:731][211]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_3.star_citizen_workflow_to__etchfab_decals_9_texture_3]
+[2026.02.06-20.32.23:732][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_3]
+[2026.02.06-20.32.23:744][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_3
+[2026.02.06-20.32.23:744][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/star_citizen_workflow_to__etchfaF1E9D7E949CAE3169810DDBDB022D478.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_3.uasset'
+[2026.02.06-20.32.23:745][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_4] ([1] browsable assets)...
+[2026.02.06-20.32.23:747][211]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_4.star_citizen_workflow_to__etchfab_decals_9_texture_4]
+[2026.02.06-20.32.23:747][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_4]
+[2026.02.06-20.32.23:760][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_4
+[2026.02.06-20.32.23:760][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/star_citizen_workflow_to__etchfaBDEFBD6F418468D21538058B81B42429.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_4.uasset'
+[2026.02.06-20.32.23:761][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_5] ([1] browsable assets)...
+[2026.02.06-20.32.23:762][211]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_5.star_citizen_workflow_to__etchfab_decals_9_texture_5]
+[2026.02.06-20.32.23:762][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_5]
+[2026.02.06-20.32.23:821][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_5
+[2026.02.06-20.32.23:821][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/star_citizen_workflow_to__etchfaAC71AA674454D0FBD7755886F5B3C3D8.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_5.uasset'
+[2026.02.06-20.32.23:822][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_6] ([1] browsable assets)...
+[2026.02.06-20.32.23:824][211]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_6.star_citizen_workflow_to__etchfab_decals_9_texture_6]
+[2026.02.06-20.32.23:824][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_6]
+[2026.02.06-20.32.23:881][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_6
+[2026.02.06-20.32.23:881][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/star_citizen_workflow_to__etchfa3A824D3747A29BA65124C9B8B0CDEB31.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_6.uasset'
+[2026.02.06-20.32.23:883][211]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9] ([1] browsable assets)...
+[2026.02.06-20.32.23:889][211]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9.star_citizen_workflow_to_sketchfab_decals_9]
+[2026.02.06-20.32.23:889][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9]
+[2026.02.06-20.32.23:911][211]LogSavePackage: Moving output files for package: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9
+[2026.02.06-20.32.23:911][211]LogSavePackage: Moving '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Saved/star_citizen_workflow_to_sketchfC5306BC9417EC69EDDCD198433B79507.tmp' to '../../../../../../Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9.uasset'
+[2026.02.06-20.32.24:428][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.13 sec (total: 6.85 sec)
+[2026.02.06-20.32.24:493][211]LogContentValidation: Display: Starting to validate 31 assets
+[2026.02.06-20.32.24:493][211]LogContentValidation: Enabled validators:
+[2026.02.06-20.32.24:493][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.06-20.32.24:493][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.06-20.32.24:493][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.06-20.32.24:493][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.06-20.32.24:493][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.06-20.32.24:493][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/NoegraphTasks/SimpleRotationsTasks/BP_RotateAroundZAxes Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_001 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_002 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_003 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_004 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_005 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_006 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_007 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_008 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_009 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_010 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_011 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_012 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_013 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_014 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/Material_015 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/ground_low_Baked Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_info Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Materials/p_132_CirclePattern_normal Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_0 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_1 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_2 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_3 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_4 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_5 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/Textures/star_citizen_workflow_to__etchfab_decals_9_texture_6 Validating asset
+[2026.02.06-20.32.24:494][211]AssetCheck: /Game/Fab/Star_Citizen_Workflow_to_Sketchfab_-_Decals_9/star_citizen_workflow_to_sketchfab_decals_9/StaticMeshes/star_citizen_workflow_to_sketchfab_decals_9 Validating asset
