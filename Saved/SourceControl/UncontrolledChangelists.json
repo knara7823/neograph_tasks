@@ -4,13 +4,7 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": [
-				"C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Blueprints/STRUCTURE_CharacterData.uasset",
-				"C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Blueprints/DT_CharactersTable.uasset",
-				"C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/Blueprints/BP_MoeObject.uasset",
-				"C:/Users/Tornado/Documents/Unreal Projects/AggressiveTesting/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/WI/UCADDEEY5CJNZ1ME3P06IJ.uasset"
-			]
+			"files": []
 		}
 	]
 }
